@@ -58,6 +58,7 @@ export default {
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
   font-family: 'Segoe UI', sans-serif;
+  align-items: center;
 }
 
 h2 {
@@ -68,6 +69,7 @@ h2 {
 
 .form-group {
   margin-bottom: 1rem;
+ 
 }
 
 label {
